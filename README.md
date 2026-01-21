@@ -49,7 +49,3 @@ The project incorporates multiple SQL queries to analyze and retrieve meaningful
 8. Show the names of customers who borrowed books during **June 2023**.
 9. Retrieve the titles of books that belong to the **History** category.
 10. Display branch numbers and employee counts for branches that have more than five employees.
-
-
-
-Just tell me 👍
